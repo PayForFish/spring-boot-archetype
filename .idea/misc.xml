@@ -19,6 +19,7 @@
         <option value="$PROJECT_DIR$/../example-work/pom.xml" />
         <option value="$PROJECT_DIR$/example/example-project/pom.xml" />
         <option value="$PROJECT_DIR$/../example-project/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-web-backend-archetype/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -42,7 +43,6 @@
         <option value="$PROJECT_DIR$/hehe/pom.xml" />
         <option value="$PROJECT_DIR$/oye/pom.xml" />
         <option value="$PROJECT_DIR$/oyeyey/pom.xml" />
-        <option value="$PROJECT_DIR$/sample/example-project/pom.xml" />
         <option value="$PROJECT_DIR$/sample/sample-project/pom.xml" />
         <option value="$PROJECT_DIR$/sssss/pom.xml" />
         <option value="$PROJECT_DIR$/watch/pom.xml" />

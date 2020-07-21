@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sample/example-project/demo-presentation-api/demo-presentation-api.iml" filepath="$PROJECT_DIR$/sample/example-project/demo-presentation-api/demo-presentation-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/example-project/demo-presentation-common/demo-presentation-common.iml" filepath="$PROJECT_DIR$/sample/example-project/demo-presentation-common/demo-presentation-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/example-project/demo-presentation-dao/demo-presentation-dao.iml" filepath="$PROJECT_DIR$/sample/example-project/demo-presentation-dao/demo-presentation-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/example-project/demo-presentation-model/demo-presentation-model.iml" filepath="$PROJECT_DIR$/sample/example-project/demo-presentation-model/demo-presentation-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/example-project/demo-presentation-service/demo-presentation-service.iml" filepath="$PROJECT_DIR$/sample/example-project/demo-presentation-service/demo-presentation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/example-project/demo-presentation-web/demo-presentation-web.iml" filepath="$PROJECT_DIR$/sample/example-project/demo-presentation-web/demo-presentation-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/example-project/example-project.iml" filepath="$PROJECT_DIR$/sample/example-project/example-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-archetype.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-archetype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-web-backend-archetype/spring-boot-web-backend-archetype.iml" filepath="$PROJECT_DIR$/spring-boot-web-backend-archetype/spring-boot-web-backend-archetype.iml" />
+    </modules>
+  </component>
+</project>

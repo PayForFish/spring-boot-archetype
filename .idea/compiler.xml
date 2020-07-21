@@ -7,41 +7,17 @@
     </excludeFromCompile>
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
-      <profile name="Annotation profile for demo-presentation" enabled="true">
-        <sourceOutputDir name="../../../../example-project/demo-presentation-api/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../../../example-project/demo-presentation-api/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="demo-presentation-api" />
-      </profile>
-      <profile name="Annotation profile for demo-presentation-model" enabled="true">
-        <sourceOutputDir name="../../../../example-project/demo-presentation-model/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../../../example-project/demo-presentation-model/target/generated-test-sources/test-annotations" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="demo-presentation-model" />
-      </profile>
-      <profile name="Annotation profile for demo-presentation-dao" enabled="true">
-        <sourceOutputDir name="../../../../example-project/demo-presentation-dao/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../../../example-project/demo-presentation-dao/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="demo-presentation-dao" />
-      </profile>
-      <profile name="Annotation profile for demo-presentation-common" enabled="true">
-        <sourceOutputDir name="../../../../example-project/demo-presentation-common/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../../../example-project/demo-presentation-common/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
         <module name="demo-presentation-common" />
-      </profile>
-      <profile name="Annotation profile for demo-presentation-service" enabled="true">
-        <sourceOutputDir name="../../../../example-project/demo-presentation-service/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../../../example-project/demo-presentation-service/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="demo-presentation-service" />
-      </profile>
-      <profile name="Annotation profile for demo-presentation-web" enabled="true">
-        <sourceOutputDir name="../../../../example-project/demo-presentation-web/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../../../example-project/demo-presentation-web/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
         <module name="demo-presentation-web" />
+        <module name="demo-presentation-api" />
+        <module name="demo-presentation-service" />
+        <module name="spring-boot-web-backend-archetype" />
+        <module name="demo-presentation-dao" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -99,6 +75,7 @@
       <module name="oyeyey-web" target="1.8" />
       <module name="sample-project" target="1.8" />
       <module name="spring-boot-framework-archetype" target="1.8" />
+      <module name="spring-boot-web-backend-archetype" target="1.8" />
       <module name="sssss" target="1.8" />
       <module name="sssss-api" target="1.8" />
       <module name="sssss-dao" target="1.8" />
