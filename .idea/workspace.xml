@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7d35568-f224-4733-b54e-8055627a9bfa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/example/artifactidhere-api/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/example/artifactidhere-dao/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/example/artifactidhere-model/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/example/artifactidhere-service/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/example/artifactidhere-web/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/example/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-web-backend-archetype/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/META-INF/maven/archetype-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/META-INF/maven/archetype-metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-dao/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-dao/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-model/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-model/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d7d35568-f224-4733-b54e-8055627a9bfa" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +43,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-web/src/main/java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15332031" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -129,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595239414370</updated>
       <workItem from="1595239416260" duration="4020000" />
-      <workItem from="1595299619205" duration="20373000" />
+      <workItem from="1595299619205" duration="21366000" />
     </task>
     <servers />
   </component>
@@ -137,34 +121,38 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="208" y="23" width="1024" height="817" key="#Project_Structure" timestamp="1595317350262">
+    <state x="207" y="23" width="1024" height="817" key="#Project_Structure" timestamp="1595323841342">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="208" y="23" key="#Project_Structure/0.23.1440.813@0.23.1440.813" timestamp="1595317350262" />
+    <state x="207" y="23" key="#Project_Structure/0.23.1440.813@0.23.1440.813" timestamp="1595323841342" />
     <state x="208" y="23" width="1024" height="817" key="#Project_Structure/0.23.1440.817@0.23.1440.817" timestamp="1595297076858" />
+    <state x="446" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595324740132">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="446" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.813@0.23.1440.813" timestamp="1595324740132" />
     <state x="337" y="125" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1595318066798">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="337" y="125" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.813@0.23.1440.813" timestamp="1595318066798" />
-    <state width="1398" height="90" key="GridCell.Tab.0.bottom" timestamp="1595323293423">
+    <state width="1398" height="112" key="GridCell.Tab.0.bottom" timestamp="1595324114701">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="90" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1595323293423" />
+    <state width="1398" height="112" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1595324114701" />
     <state width="1398" height="396" key="GridCell.Tab.0.bottom/0.23.1440.817@0.23.1440.817" timestamp="1595298633480" />
-    <state width="1398" height="90" key="GridCell.Tab.0.center" timestamp="1595323293422">
+    <state width="1398" height="112" key="GridCell.Tab.0.center" timestamp="1595324114700">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="90" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1595323293422" />
+    <state width="1398" height="112" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1595324114700" />
     <state width="1398" height="396" key="GridCell.Tab.0.center/0.23.1440.817@0.23.1440.817" timestamp="1595298633479" />
-    <state width="1398" height="90" key="GridCell.Tab.0.left" timestamp="1595323293422">
+    <state width="1398" height="112" key="GridCell.Tab.0.left" timestamp="1595324114700">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="90" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1595323293422" />
+    <state width="1398" height="112" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1595324114700" />
     <state width="1398" height="396" key="GridCell.Tab.0.left/0.23.1440.817@0.23.1440.817" timestamp="1595298633477" />
-    <state width="1398" height="90" key="GridCell.Tab.0.right" timestamp="1595323293422">
+    <state width="1398" height="112" key="GridCell.Tab.0.right" timestamp="1595324114701">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="90" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1595323293422" />
+    <state width="1398" height="112" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1595324114701" />
     <state width="1398" height="396" key="GridCell.Tab.0.right/0.23.1440.817@0.23.1440.817" timestamp="1595298633480" />
     <state x="208" y="23" width="1024" height="817" key="SettingsEditor" timestamp="1595301528176">
       <screen x="0" y="23" width="1440" height="813" />
@@ -184,9 +172,9 @@
     </state>
     <state x="124" y="167" width="1229" height="493" key="new project wizard/0.23.1440.813@0.23.1440.813" timestamp="1595323292638" />
     <state x="45" y="78" key="new project wizard/0.23.1440.817@0.23.1440.817" timestamp="1595298777570" />
-    <state x="385" y="160" width="670" height="676" key="search.everywhere.popup" timestamp="1595308011024">
+    <state x="385" y="160" width="670" height="676" key="search.everywhere.popup" timestamp="1595324070946">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="385" y="160" width="670" height="676" key="search.everywhere.popup/0.23.1440.813@0.23.1440.813" timestamp="1595308011024" />
+    <state x="385" y="160" width="670" height="676" key="search.everywhere.popup/0.23.1440.813@0.23.1440.813" timestamp="1595324070946" />
   </component>
 </project>
