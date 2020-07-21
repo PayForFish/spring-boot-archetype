@@ -6,26 +6,42 @@
       <directory url="file://$PROJECT_DIR$/testshit/src/main/resources/archetype-resources" includeSubdirectories="true" />
     </excludeFromCompile>
     <annotationProcessing>
-      <profile name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Annotation profile for demo-presentation" enabled="true">
+        <sourceOutputDir name="../../../../example-project/demo-presentation-api/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../../example-project/demo-presentation-api/target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="work11-api" />
-        <module name="oyeyey-api" />
-        <module name="work11-web" />
-        <module name="oyeyey-model" />
-        <module name="artifactidhere-dao" />
-        <module name="artifactidhere-api" />
-        <module name="work11-service" />
-        <module name="oyeyey-dao" />
-        <module name="artifactidhere-web" />
-        <module name="oyeyey-service" />
-        <module name="work11-dao" />
-        <module name="work11-model" />
-        <module name="artifactidhere-model" />
-        <module name="artifactidhere-service" />
-        <module name="spring-boot-framework-archetype" />
-        <module name="oyeyey-web" />
+        <module name="demo-presentation-api" />
+      </profile>
+      <profile name="Annotation profile for demo-presentation-model" enabled="true">
+        <sourceOutputDir name="../../../../example-project/demo-presentation-model/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../../example-project/demo-presentation-model/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-presentation-model" />
+      </profile>
+      <profile name="Annotation profile for demo-presentation-dao" enabled="true">
+        <sourceOutputDir name="../../../../example-project/demo-presentation-dao/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../../example-project/demo-presentation-dao/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-presentation-dao" />
+      </profile>
+      <profile name="Annotation profile for demo-presentation-common" enabled="true">
+        <sourceOutputDir name="../../../../example-project/demo-presentation-common/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../../example-project/demo-presentation-common/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-presentation-common" />
+      </profile>
+      <profile name="Annotation profile for demo-presentation-service" enabled="true">
+        <sourceOutputDir name="../../../../example-project/demo-presentation-service/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../../example-project/demo-presentation-service/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-presentation-service" />
+      </profile>
+      <profile name="Annotation profile for demo-presentation-web" enabled="true">
+        <sourceOutputDir name="../../../../example-project/demo-presentation-web/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../../example-project/demo-presentation-web/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-presentation-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -47,6 +63,12 @@
       <module name="demo-artifactid-model" target="1.8" />
       <module name="demo-artifactid-service" target="1.8" />
       <module name="demo-artifactid-web" target="1.8" />
+      <module name="demo-present-api" target="1.8" />
+      <module name="demo-present-common" target="1.8" />
+      <module name="demo-present-dao" target="1.8" />
+      <module name="demo-present-model" target="1.8" />
+      <module name="demo-present-service" target="1.8" />
+      <module name="demo-present-web" target="1.8" />
       <module name="demo-presentation-api" target="1.8" />
       <module name="demo-presentation-common" target="1.8" />
       <module name="demo-presentation-dao" target="1.8" />

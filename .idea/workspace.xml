@@ -2,35 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7d35568-f224-4733-b54e-8055627a9bfa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/sample/sample-project/demo-artifactid-api/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/sample-project/demo-artifactid-common/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/sample-project/demo-artifactid-dao/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/sample-project/demo-artifactid-model/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/sample-project/demo-artifactid-service/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/sample-project/demo-artifactid-service/src/main/java/org/example/ServiceApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/sample-project/demo-artifactid-service/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/sample-project/demo-artifactid-web/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/sample-project/demo-artifactid-web/src/main/java/org/example/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/sample-project/demo-artifactid-web/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/sample-project/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-web-backend-archetype/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-api/src/main/java/rpc/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-api/src/main/java/service/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-common/src/main/java/bussiness/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-common/src/main/java/util/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-dao/src/main/java/orm/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-dao/src/main/resources/mapper/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-model/src/main/java/constant/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-model/src/main/java/do/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-model/src/main/java/dto/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-model/src/main/java/vo/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-service/src/main/java/config/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-service/src/main/java/manager/business/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-service/src/main/java/manager/thirdpart/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-service/src/main/java/rpcimpl/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-service/src/main/java/serviceimpl/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-web/src/main/java/config/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-web/src/main/java/controller/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/example-project/demo-present-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/example-project/demo-present-api/src/main/java/org/example/rpc/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/example-project/demo-present-api/src/main/java/org/example/service/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/example-project/demo-present-common/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/example-project/demo-present-dao/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/example-project/demo-present-model/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/example-project/demo-present-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/example-project/demo-present-service/src/main/java/org/example/ServiceApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/example-project/demo-present-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/example-project/demo-present-web/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/example-project/demo-present-web/src/main/java/org/example/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/example-project/demo-present-web/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/example-project/pom.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +55,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-web/src/main/java/controller" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -80,19 +64,19 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-web/src/main/java/controller" />
-      <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-web/src/main/java/config" />
-      <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-service/src/main/java/serviceimpl" />
-      <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-service/src/main/java/rpcimpl" />
-      <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-service/src/main/java/manager/thirdpart" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/sample" />
       <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-dao" />
       <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/META-INF/maven" />
       <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/META-INF" />
       <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-api/src/main/java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-web/src/main/java/controller" />
+      <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-web/src/main/java/config" />
+      <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-service/src/main/java/serviceimpl" />
+      <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-service/src/main/java/rpcimpl" />
+      <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-service/src/main/java/manager/thirdpart" />
     </key>
   </component>
   <component name="RunManager">
@@ -145,7 +129,10 @@
       <option name="presentableId" value="Default" />
       <updated>1595239414370</updated>
       <workItem from="1595239416260" duration="4020000" />
-      <workItem from="1595299619205" duration="23308000" />
+      <workItem from="1595299619205" duration="24756000" />
+      <workItem from="1595328467112" duration="46000" />
+      <workItem from="1595328523559" duration="166000" />
+      <workItem from="1595328700590" duration="37000" />
     </task>
     <servers />
   </component>
@@ -153,10 +140,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="207" y="23" width="1024" height="817" key="#Project_Structure" timestamp="1595323841342">
+    <state x="207" y="23" width="1024" height="817" key="#Project_Structure" timestamp="1595327000226">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="207" y="23" key="#Project_Structure/0.23.1440.813@0.23.1440.813" timestamp="1595323841342" />
+    <state x="207" y="23" key="#Project_Structure/0.23.1440.813@0.23.1440.813" timestamp="1595327000226" />
     <state x="208" y="23" width="1024" height="817" key="#Project_Structure/0.23.1440.817@0.23.1440.817" timestamp="1595297076858" />
     <state x="446" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595324740132">
       <screen x="0" y="23" width="1440" height="813" />
@@ -166,25 +153,25 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="337" y="125" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.813@0.23.1440.813" timestamp="1595318066798" />
-    <state width="1398" height="221" key="GridCell.Tab.0.bottom" timestamp="1595326753144">
+    <state width="1398" height="151" key="GridCell.Tab.0.bottom" timestamp="1595328689452">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="221" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1595326753144" />
+    <state width="1398" height="151" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1595328689452" />
     <state width="1398" height="396" key="GridCell.Tab.0.bottom/0.23.1440.817@0.23.1440.817" timestamp="1595298633480" />
-    <state width="1398" height="221" key="GridCell.Tab.0.center" timestamp="1595326753144">
+    <state width="1398" height="151" key="GridCell.Tab.0.center" timestamp="1595328689452">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="221" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1595326753144" />
+    <state width="1398" height="151" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1595328689452" />
     <state width="1398" height="396" key="GridCell.Tab.0.center/0.23.1440.817@0.23.1440.817" timestamp="1595298633479" />
-    <state width="1398" height="221" key="GridCell.Tab.0.left" timestamp="1595326753143">
+    <state width="1398" height="151" key="GridCell.Tab.0.left" timestamp="1595328689451">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="221" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1595326753143" />
+    <state width="1398" height="151" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1595328689451" />
     <state width="1398" height="396" key="GridCell.Tab.0.left/0.23.1440.817@0.23.1440.817" timestamp="1595298633477" />
-    <state width="1398" height="221" key="GridCell.Tab.0.right" timestamp="1595326753144">
+    <state width="1398" height="151" key="GridCell.Tab.0.right" timestamp="1595328689452">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="221" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1595326753144" />
+    <state width="1398" height="151" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1595328689452" />
     <state width="1398" height="396" key="GridCell.Tab.0.right/0.23.1440.817@0.23.1440.817" timestamp="1595298633480" />
     <state x="208" y="23" width="1024" height="817" key="SettingsEditor" timestamp="1595301528176">
       <screen x="0" y="23" width="1440" height="813" />
@@ -199,10 +186,10 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="421" y="155" width="598" height="548" key="find.popup/0.23.1440.813@0.23.1440.813" timestamp="1595316398392" />
-    <state x="124" y="167" width="1229" height="493" key="new project wizard" timestamp="1595326794359">
+    <state x="124" y="167" width="1229" height="493" key="new project wizard" timestamp="1595328621323">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="124" y="167" width="1229" height="493" key="new project wizard/0.23.1440.813@0.23.1440.813" timestamp="1595326794359" />
+    <state x="124" y="167" width="1229" height="493" key="new project wizard/0.23.1440.813@0.23.1440.813" timestamp="1595328621323" />
     <state x="45" y="78" key="new project wizard/0.23.1440.817@0.23.1440.817" timestamp="1595298777570" />
     <state x="385" y="160" width="670" height="676" key="search.everywhere.popup" timestamp="1595324070946">
       <screen x="0" y="23" width="1440" height="813" />
