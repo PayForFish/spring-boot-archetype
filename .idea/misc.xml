@@ -8,10 +8,37 @@
       <list>
         <option value="$PROJECT_DIR$/spring-boot-web-backend-archetype/pom.xml" />
         <option value="$PROJECT_DIR$/example/pom.xml" />
+        <option value="$PROJECT_DIR$/oye/pom.xml" />
+        <option value="$PROJECT_DIR$/oyeyey/pom.xml" />
+        <option value="$PROJECT_DIR$/asas/pom.xml" />
+        <option value="$PROJECT_DIR$/asasaas/pom.xml" />
+        <option value="$PROJECT_DIR$/sssss/pom.xml" />
+        <option value="$PROJECT_DIR$/watch/pom.xml" />
+        <option value="$PROJECT_DIR$/hehe/pom.xml" />
+        <option value="$PROJECT_DIR$/sample/sample-project/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/asas/pom.xml" />
+        <option value="$PROJECT_DIR$/asasaas/pom.xml" />
+        <option value="$PROJECT_DIR$/hehe/pom.xml" />
+        <option value="$PROJECT_DIR$/oye/pom.xml" />
+        <option value="$PROJECT_DIR$/oyeyey/pom.xml" />
+        <option value="$PROJECT_DIR$/sssss/pom.xml" />
+        <option value="$PROJECT_DIR$/watch/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SuppressABINotification">
+    <option name="modulesWithSuppressedNotConfigured">
+      <set>
+        <option value="asas-api" />
+        <option value="spring-boot-framework-archetype" />
+      </set>
+    </option>
   </component>
 </project>
