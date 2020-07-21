@@ -13,6 +13,7 @@
         <option value="FxmlFile" />
         <option value="package.json" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -31,7 +32,6 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -40,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-web/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-web/src/main/java/controller" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -50,10 +50,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-web/src/main/java" />
-      <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-web/src/main" />
-      <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-common" />
-      <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype" />
+      <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-web/src/main/java/controller" />
+      <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-web/src/main/java/config" />
+      <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-service/src/main/java/serviceimpl" />
+      <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-service/src/main/java/manager/thirdpart" />
+      <recent name="$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources/archetype-resources/__rootArtifactId__-service/src/main/java/manager/business" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/sample" />
@@ -113,7 +114,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595239414370</updated>
       <workItem from="1595239416260" duration="4020000" />
-      <workItem from="1595299619205" duration="21366000" />
+      <workItem from="1595299619205" duration="22253000" />
     </task>
     <servers />
   </component>
