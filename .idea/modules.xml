@@ -7,19 +7,12 @@
       <module fileurl="file://$PROJECT_DIR$/sample/example/artifactidhere-model/artifactidhere-model.iml" filepath="$PROJECT_DIR$/sample/example/artifactidhere-model/artifactidhere-model.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/example/artifactidhere-service/artifactidhere-service.iml" filepath="$PROJECT_DIR$/sample/example/artifactidhere-service/artifactidhere-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/example/artifactidhere-web/artifactidhere-web.iml" filepath="$PROJECT_DIR$/sample/example/artifactidhere-web/artifactidhere-web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample/sample-project/demo-artifactid-api/demo-artifactid-api.iml" filepath="$PROJECT_DIR$/sample/sample-project/demo-artifactid-api/demo-artifactid-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample/sample-project/demo-artifactid-common/demo-artifactid-common.iml" filepath="$PROJECT_DIR$/sample/sample-project/demo-artifactid-common/demo-artifactid-common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample/sample-project/demo-artifactid-dao/demo-artifactid-dao.iml" filepath="$PROJECT_DIR$/sample/sample-project/demo-artifactid-dao/demo-artifactid-dao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample/sample-project/demo-artifactid-model/demo-artifactid-model.iml" filepath="$PROJECT_DIR$/sample/sample-project/demo-artifactid-model/demo-artifactid-model.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample/sample-project/demo-artifactid-service/demo-artifactid-service.iml" filepath="$PROJECT_DIR$/sample/sample-project/demo-artifactid-service/demo-artifactid-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample/sample-project/demo-artifactid-web/demo-artifactid-web.iml" filepath="$PROJECT_DIR$/sample/sample-project/demo-artifactid-web/demo-artifactid-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/example/example.iml" filepath="$PROJECT_DIR$/sample/example/example.iml" />
       <module fileurl="file://$PROJECT_DIR$/oyeyey/oyeyey-api/oyeyey-api.iml" filepath="$PROJECT_DIR$/oyeyey/oyeyey-api/oyeyey-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/oyeyey/oyeyey-dao/oyeyey-dao.iml" filepath="$PROJECT_DIR$/oyeyey/oyeyey-dao/oyeyey-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/oyeyey/oyeyey-model/oyeyey-model.iml" filepath="$PROJECT_DIR$/oyeyey/oyeyey-model/oyeyey-model.iml" />
       <module fileurl="file://$PROJECT_DIR$/oyeyey/oyeyey-service/oyeyey-service.iml" filepath="$PROJECT_DIR$/oyeyey/oyeyey-service/oyeyey-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/oyeyey/oyeyey-web/oyeyey-web.iml" filepath="$PROJECT_DIR$/oyeyey/oyeyey-web/oyeyey-web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample/sample-project/sample-project.iml" filepath="$PROJECT_DIR$/sample/sample-project/sample-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-archetype.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-archetype.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-web-backend-archetype/spring-boot-framework-archetype.iml" filepath="$PROJECT_DIR$/spring-boot-web-backend-archetype/spring-boot-framework-archetype.iml" />
       <module fileurl="file://$PROJECT_DIR$/asasaas/work11-api/work11-api.iml" filepath="$PROJECT_DIR$/asasaas/work11-api/work11-api.iml" />

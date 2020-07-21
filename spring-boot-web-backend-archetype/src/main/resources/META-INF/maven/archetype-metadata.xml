@@ -17,50 +17,50 @@
         </requiredProperty>
     </requiredProperties>
 
-    <fileSets>
-        <fileSet filtered="true" encoding="UTF-8">
-            <directory>.idea/libraries</directory>
-            <includes>
-                <include>**/*.xml</include>
-            </includes>
-        </fileSet>
-        <fileSet filtered="true" encoding="UTF-8">
-            <directory>.idea/inspectionProfiles</directory>
-            <includes>
-                <include>**/*.xml</include>
-            </includes>
-        </fileSet>
-        <fileSet filtered="true" encoding="UTF-8">
-            <directory>.idea/codeStyles</directory>
-            <includes>
-                <include>**/*.xml</include>
-            </includes>
-        </fileSet>
-        <fileSet filtered="true" encoding="UTF-8">
-            <directory>.idea</directory>
-            <includes>
-                <include>**/*.xml</include>
-            </includes>
-        </fileSet>
-        <fileSet filtered="true" encoding="UTF-8">
-            <directory>.idea/dictionaries</directory>
-            <includes>
-                <include>**/*.xml</include>
-            </includes>
-        </fileSet>
-        <fileSet encoding="UTF-8">
-            <directory>.idea</directory>
-            <includes>
-                <include>**/*.name</include>
-            </includes>
-        </fileSet>
-        <fileSet encoding="UTF-8">
-            <directory></directory>
-            <includes>
-                <include>demo.iml</include>
-            </includes>
-        </fileSet>
-    </fileSets>
+<!--    <fileSets>-->
+<!--        <fileSet filtered="true" encoding="UTF-8">-->
+<!--            <directory>.idea/libraries</directory>-->
+<!--            <includes>-->
+<!--                <include>**/*.xml</include>-->
+<!--            </includes>-->
+<!--        </fileSet>-->
+<!--        <fileSet filtered="true" encoding="UTF-8">-->
+<!--            <directory>.idea/inspectionProfiles</directory>-->
+<!--            <includes>-->
+<!--                <include>**/*.xml</include>-->
+<!--            </includes>-->
+<!--        </fileSet>-->
+<!--        <fileSet filtered="true" encoding="UTF-8">-->
+<!--            <directory>.idea/codeStyles</directory>-->
+<!--            <includes>-->
+<!--                <include>**/*.xml</include>-->
+<!--            </includes>-->
+<!--        </fileSet>-->
+<!--        <fileSet filtered="true" encoding="UTF-8">-->
+<!--            <directory>.idea</directory>-->
+<!--            <includes>-->
+<!--                <include>**/*.xml</include>-->
+<!--            </includes>-->
+<!--        </fileSet>-->
+<!--        <fileSet filtered="true" encoding="UTF-8">-->
+<!--            <directory>.idea/dictionaries</directory>-->
+<!--            <includes>-->
+<!--                <include>**/*.xml</include>-->
+<!--            </includes>-->
+<!--        </fileSet>-->
+<!--        <fileSet encoding="UTF-8">-->
+<!--            <directory>.idea</directory>-->
+<!--            <includes>-->
+<!--                <include>**/*.name</include>-->
+<!--            </includes>-->
+<!--        </fileSet>-->
+<!--        <fileSet encoding="UTF-8">-->
+<!--            <directory></directory>-->
+<!--            <includes>-->
+<!--                <include>demo.iml</include>-->
+<!--            </includes>-->
+<!--        </fileSet>-->
+<!--    </fileSets>-->
     <modules>
         <module id="${rootArtifactId}-api" dir="__rootArtifactId__-api" name="${rootArtifactId}-api">
             <fileSets>
@@ -68,6 +68,12 @@
                     <directory>src/main/java</directory>
                     <includes>
                         <include>*</include>
+                    </includes>
+                </fileSet>
+                <fileSet filtered="true" packaged="true" encoding="UTF-8">
+                    <directory>src/main/java</directory>
+                    <includes>
+                        <include>**/*.txt</include>
                     </includes>
                 </fileSet>
                 <fileSet filtered="true" encoding="UTF-8">
@@ -98,6 +104,12 @@
                         <include>*</include>
                     </includes>
                 </fileSet>
+                <fileSet filtered="true" packaged="true" encoding="UTF-8">
+                    <directory>src/main/java</directory>
+                    <includes>
+                        <include>**/*.txt</include>
+                    </includes>
+                </fileSet>
                 <fileSet filtered="true" encoding="UTF-8">
                     <directory>src/main/resources</directory>
                     <includes>
@@ -124,6 +136,12 @@
                     <directory>src/main/java</directory>
                     <includes>
                         <include>*</include>
+                    </includes>
+                </fileSet>
+                <fileSet filtered="true" packaged="true" encoding="UTF-8">
+                    <directory>src/main/java</directory>
+                    <includes>
+                        <include>**/*.txt</include>
                     </includes>
                 </fileSet>
                 <fileSet filtered="true" packaged="true" encoding="UTF-8">
@@ -161,6 +179,12 @@
                     </includes>
                 </fileSet>
                 <fileSet filtered="true" packaged="true" encoding="UTF-8">
+                    <directory>src/main/java</directory>
+                    <includes>
+                        <include>**/*.txt</include>
+                    </includes>
+                </fileSet>
+                <fileSet filtered="true" packaged="true" encoding="UTF-8">
                     <directory>src/test/java</directory>
                     <includes>
                         <include>**/*.java</include>
@@ -195,6 +219,12 @@
                     </includes>
                 </fileSet>
                 <fileSet filtered="true" packaged="true" encoding="UTF-8">
+                    <directory>src/main/java</directory>
+                    <includes>
+                        <include>**/*.txt</include>
+                    </includes>
+                </fileSet>
+                <fileSet filtered="true" packaged="true" encoding="UTF-8">
                     <directory>src/test/java</directory>
                     <includes>
                         <include>**/*.java</include>
@@ -226,6 +256,12 @@
                     <directory>src/main/java</directory>
                     <includes>
                         <include>*</include>
+                    </includes>
+                </fileSet>
+                <fileSet filtered="true" packaged="true" encoding="UTF-8">
+                    <directory>src/main/java</directory>
+                    <includes>
+                        <include>**/*.txt</include>
                     </includes>
                 </fileSet>
                 <fileSet filtered="true" encoding="UTF-8">

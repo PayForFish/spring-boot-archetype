@@ -17,9 +17,8 @@ mvn clean install
    ![](https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/334e6bd57d298d9b56ebc457eec08db4b311bca8ec11421d8bb0826fa1dc9af4e737295cdb29e88cd99356e5c1ee3f8b?pictype=scale&from=30013&version=3.3.3.3&uin=1084856844&fname=WX20200721-141004%402x.png&size=750)  
    
 5. 点击next->创建多模块项目脚手架工程，可自行修改父pom中依赖的版本:)  
-~~~markdown
-## 一些建议
-#### 若项目按服务划分，自行配置RPC相关后service module作为服务化单独启动  
-#### 若为单体服务，service module自行删除配置再作为一个依赖在web端引入
+## 一些建议  
+#### 若项目按服务划分，自行配置RPC相关后service module作为服务化单独启动    
+#### 若为单体服务，service module自行删除配置再作为一个依赖在web端引入  
 #### module下的package随意命名，请根据自身业务规划，分层  
-~~~
+#### 注意version, 目前最新version为2.0.0, 生成脚手架时注意不是图中1.0.0

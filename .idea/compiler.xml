@@ -12,11 +12,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="work11-api" />
         <module name="oyeyey-api" />
-        <module name="demo-artifactid-model" />
         <module name="work11-web" />
-        <module name="demo-artifactid-web" />
         <module name="oyeyey-model" />
-        <module name="demo-artifactid-dao" />
         <module name="artifactidhere-dao" />
         <module name="artifactidhere-api" />
         <module name="work11-service" />
@@ -27,10 +24,7 @@
         <module name="work11-model" />
         <module name="artifactidhere-model" />
         <module name="artifactidhere-service" />
-        <module name="demo-artifactid-service" />
-        <module name="demo-artifactid-common" />
         <module name="spring-boot-framework-archetype" />
-        <module name="demo-artifactid-api" />
         <module name="oyeyey-web" />
       </profile>
     </annotationProcessing>
@@ -53,7 +47,15 @@
       <module name="demo-artifactid-model" target="1.8" />
       <module name="demo-artifactid-service" target="1.8" />
       <module name="demo-artifactid-web" target="1.8" />
+      <module name="demo-presentation-api" target="1.8" />
+      <module name="demo-presentation-common" target="1.8" />
+      <module name="demo-presentation-dao" target="1.8" />
+      <module name="demo-presentation-model" target="1.8" />
+      <module name="demo-presentation-service" target="1.8" />
+      <module name="demo-presentation-web" target="1.8" />
       <module name="example" target="1.8" />
+      <module name="example-project" target="1.8" />
+      <module name="example-work" target="1.8" />
       <module name="hehe" target="1.8" />
       <module name="hehe-oh-api" target="1.8" />
       <module name="hehe-oh-dao" target="1.8" />

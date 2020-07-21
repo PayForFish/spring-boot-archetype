@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/sample/sample-project/demo-artifactid-api/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/sample/sample-project/demo-artifactid-api/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/sample/sample-project/demo-artifactid-common/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/sample/sample-project/demo-artifactid-common/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/sample/sample-project/demo-artifactid-dao/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/sample/sample-project/demo-artifactid-dao/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/sample/sample-project/demo-artifactid-model/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/sample/sample-project/demo-artifactid-model/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/sample/sample-project/demo-artifactid-service/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/sample/sample-project/demo-artifactid-service/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/sample/sample-project/demo-artifactid-web/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/sample/sample-project/demo-artifactid-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../example-work/demo-presentation-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../example-work/demo-presentation-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../example-work/demo-presentation-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../example-work/demo-presentation-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../example-work/demo-presentation-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../example-work/demo-presentation-dao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../example-work/demo-presentation-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../example-work/demo-presentation-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../example-work/demo-presentation-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../example-work/demo-presentation-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../example-work/demo-presentation-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../example-work/demo-presentation-web/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-web-backend-archetype/src/main/resources" charset="UTF-8" />
   </component>
 </project>
